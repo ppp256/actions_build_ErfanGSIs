@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://firmware.meizu.com/Firmware/Flyme/16th_Plus/8.1.5.0/cn/20200810093446/4d8fa670/update.zip
+  ROM_URL1: https://firmware.meizu.com/Firmware/Flyme/note9/8.1.5.0/cn/20200911100730/1ab212fa/update.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
