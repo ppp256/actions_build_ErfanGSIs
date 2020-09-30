@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://firmware.meizu.com/Firmware/Flyme/note9/8.1.5.0/cn/20200911100730/1ab212fa/update.zip
-  ROM_NAME: Flyme
+  ROM_URL1: http://bigota.d.miui.com/V12.0.1.0.PDICNXM/miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
