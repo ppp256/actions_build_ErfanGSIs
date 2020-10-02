@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://fsopen.coloros.com/3/oppowww/androidrom/r9s/R9s_11_OTA_0530_all_lnbdt9ND35Pf.ozip
+  ROM_URL1: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200815085020/PBCM10_11_OTA_1630_all_jLjAu3Vrj5kC.ozip
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
