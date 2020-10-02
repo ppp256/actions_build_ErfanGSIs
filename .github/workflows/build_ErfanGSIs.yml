@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://firmware.meizu.com/Firmware/Flyme/16/8.1.5.0/cn/20200824152055/8654496b/update.zip
-  ROM_NAME: Flyme
+  ROM_URL1: https://fsopen.coloros.com/3/oppowww/androidrom/pccmoo/PCCM00_11_OTA_0480_all_Yz44qDOeW9L8.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
