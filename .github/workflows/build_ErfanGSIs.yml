@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200815085020/PBCM10_11_OTA_1630_all_jLjAu3Vrj5kC.ozip
-  ROM_NAME: ColorOS
+  ROM_URL1: http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_054_all_1906241435_a7d827c332c14e09.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
